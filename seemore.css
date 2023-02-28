@@ -1,0 +1,16 @@
+body{
+    height: 100vh;
+    width: 100vw;
+}
+.text-container{
+    height: 40%;
+    width: 40%;
+    padding: 2%;
+    background-color: silver;
+}
+.text-container span{
+  font-family: 'Times New Roman', Times, serif;
+}
+#seemore{
+    border: none;
+}
